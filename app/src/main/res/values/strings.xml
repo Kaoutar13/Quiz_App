@@ -1,0 +1,132 @@
+<resources>
+    <string name="app_name">Quiz_App</string>
+
+    <string name="hello">Hello : </string>
+
+    <string name="welcome">Have Fun &amp; Happy Learning </string>
+
+    <string name="name">Name</string>
+
+    <string name="oneLiter">than 1L</string>
+
+    <string name="compare">&lt;, &gt; or = </string>
+
+   <!-- Alert Dialog -->
+
+    <string name="yourScore">%s,you scored :</string>
+    <!--Correct Answers-->
+    <string name="correctAns">Correct Answers</string>
+    <!--Retry-->
+    <string name="retry">Retry</string>
+
+    <!--Submit button-->
+    <string name="submit">Submit</string>
+
+    <!--Reset button-->
+    <string name="reset">Reset</string>
+
+    <!--Read more-->
+    <string name="readMore">
+        <a href="https://www.thoughtco.com/fun-and-interesting-chemistry-facts-604321">
+            Read more FUN Facts !
+        </a>
+    </string>
+
+    <!--Rate us-->
+    <string name="rateUs">Rate Us</string>
+
+    <!--message after rating-->
+    <string name="msgAfterRating">Thank you for your time ^_^ !</string>
+
+    <!--subject of the email-->
+    <string name="subject">Rating for the Quiz App</string>
+
+    <!--The user's rating-->
+    <string name="userRating">Your gave us : %s Stars !\nThank you for using our app :) <em>%s</em></string>
+
+    <!--The questions from the quiz app-->
+    <string name="question1">What\'s the only letter that does not appear on the periodic table ?</string>
+
+    <string name="question2">Lemons contain more sugar than Strawberries, for the same mass : </string>
+
+    <string name="question3">The human body contains enough carbon to produce graphite for about : </string>
+
+    <string name="question4">If you expose a glass of water to space, it would : </string>
+
+    <string name="question5">The Mpemba effect is when hot water freezes more quickly than cold water : </string>
+
+    <string name="question6">If you mix half a liter of alcohol and half a liter of water, the total volume of the liquid will be :  </string>
+
+    <string name="question7">If you pour a handful of salt into a full glass of water, the water level will go down rather than overflowing the glass : </string>
+
+    <string name="question8">The only <b>TWO</b> non-silvery metals are : </string>
+
+    <string name="question9">Well-known forms of carbon include : </string>
+
+    <!--The possible answers for the questions-->
+    <string name="strawberries">Strawberries</string>
+
+    <string name="lemons">Lemons</string>
+
+    <string name="yes">True</string>
+
+    <string name="no">False</string>
+
+    <string name="pencil90">90 pencils</string>
+
+    <string name="pencil900">900 pencils</string>
+
+    <string name="pencil9000">9000 pencils</string>
+
+    <string name="boil">Boil</string>
+
+    <string name="freeze">Freeze</string>
+
+    <string name="diamond">Diamond</string>
+
+    <string name="plastic">Plastic</string>
+
+    <string name="graphite">Graphite</string>
+
+    <string name="gold">Gold</string>
+
+    <string name="mercury">Mercury</string>
+
+    <string name="uranium">Uranium</string>
+
+    <string name="copper">Copper</string>
+
+    <!--The correct answers of questions to be shown in the toast message-->
+    <string name="answer1">J</string>
+    <string name="answer2">Lemons</string>
+    <string name="answer3">9000 pencils</string>
+    <string name="answer4">Boil</string>
+    <string name="answer5">True</string>
+    <string name="answer6">"&lt;"</string>
+    <string name="answer7">True</string>
+    <string name="answer8">Gold and Copper </string>
+    <string name="answer9">Diamond and Graphite</string>
+
+    <!--The answers given by the user-->
+    <string name="message">Your responses were : </string>
+
+    <!--You forgot something message-->
+    <string name="forgotAnAnswer">Oops ..Looks like you forgot something!</string>
+
+    <!--name forgotten-->
+    <string name="forgotName">We want to get to know you ;) !</string>
+
+    <!--Try again message-->
+    <string name="tryAgainMsg">Do it AGAIN ;) ! </string>
+
+    <!--about us-->
+    <string name="about">About Us : </string>
+    <!--about us message-->
+    <string name="aboutUs">Quiz app is made for the : \n\n
+        <b>Google Africa Challenge : Android Basics</b>
+        \n\n by :
+        <b><i>Kaoutar Qanouni</i></b>\n\n
+        ^__^
+    </string>
+
+</resources>
